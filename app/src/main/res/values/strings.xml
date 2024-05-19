@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bniMobileBanking</string>
+    <string name="title_activity_transfer">transfer</string>
+</resources>
